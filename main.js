@@ -1,7 +1,2 @@
-Function tocarSomPom (){
-    document.querySelector('#som_tecla_pom').play()d
-}
-
-
-document.querySelector('#som_tecla_pom').play()d
-
+function tocarSomPom()
+      document.querySelector('tocar_tecla_pom')
