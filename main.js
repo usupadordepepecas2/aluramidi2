@@ -1,2 +1,2 @@
 function tocarSomPom()
-      document.querySelector('tocar_tecla_pom')
+      document.querySelector('tocar_tecla_pom')play()
