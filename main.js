@@ -1,3 +1,3 @@
     function tocarSomPom()
-             document.querySelector('tocar_tecla_pom').play()
+             document.querySelector('tocar_tecla_pom').play();
       
