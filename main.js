@@ -3,8 +3,5 @@ function tocaSomPom{
 }
 
 document.querySelector('.tecla_som').onclick=tocaSomPom;
-function tocarSomPom(){
-    document.querySelector('tocar_tecla_pom').play();
-}
-    
+
       
