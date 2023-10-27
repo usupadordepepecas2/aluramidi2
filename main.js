@@ -8,7 +8,7 @@ document.querySelector('.tecla_pom').onclick = tocaSomPom;
 
 
 function tocaSomClap() {
-    document.querySelector('#tocaSomClap').play();
+    document.querySelector('#toca_Som_Clap').play();
 }
 document.querySelector('.tecla_clap').onclick = tocaSomClap;
 
@@ -16,7 +16,7 @@ document.querySelector('.tecla_clap').onclick = tocaSomClap;
 
 
 function tocaSomTim() {
-    document.querySelector('#tocaSomTim').play();
+    document.querySelector('#toca_Som_Tim').play();
 }
 
 document.querySelector('.toca_tim').onclick = tocaSomTim;
